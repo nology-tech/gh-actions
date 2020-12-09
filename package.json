@@ -1,0 +1,24 @@
+{
+  "name": "gh-actions",
+  "version": "1.0.0",
+  "description": "### steps",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nology-tech/gh-actions.git"
+  },
+  "keywords": [],
+  "author": "Sam Joyce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nology-tech/gh-actions/issues"
+  },
+  "homepage": "https://github.com/nology-tech/gh-actions#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
