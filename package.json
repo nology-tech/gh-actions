@@ -4,7 +4,9 @@
   "description": "### steps",
   "main": "app.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "predeploy": "build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",

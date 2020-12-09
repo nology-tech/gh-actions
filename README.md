@@ -2,4 +2,4 @@
 
 ### steps
 
-1. 
+1. make basic html, css and js files
